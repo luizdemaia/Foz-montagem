@@ -1,0 +1,8 @@
+import { writeFileSync } from 'node:fs'
+const origin = (process.env.NUXT_PUBLIC_SITE_URL || 'https://fox-montagem-moveis.vercel.app').replace(/\/$/, '')
+const robots = `User-agent: *\nAllow: /\n\nSitemap: ${origin}/sitemap.xml\n`
+writeFileSync('public/robots.txt', robots)
+writeFileSync('public/robot.txt', robots)
+writeFileSync('public/sitemap.xml', `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>${origin}/</loc></url></urlset>\n`)
+const llm = `# FOX Montagem de Móveis\n\n> Montagem de móveis planejados e sob medida em Blumenau e região, Santa Catarina, Brasil. Identidade comercial: FOX Ambientes Planejados.\n\n## Fonte oficial\n- [Site FOX](${origin}/): serviços, portfólio de trabalhos reais, dúvidas e contato.\n\n## Serviços\n- Montagem de cozinhas e áreas gourmet\n- Montagem de closets e dormitórios\n- Montagem de banheiros, gabinetes, nichos e painéis\n- Regulagem de portas, gavetas e ajustes de acabamento\n- Atendimento residencial e comercial\n\n## Contato\n- WhatsApp: +55 47 99618-8271\n- E-mail: foxxmontagem@gmail.com\n- Instagram: https://www.instagram.com/fox_montador_de_moveis/\n- Endereço: Av. Brasil, 88, Ponta Aguda, Blumenau, SC, 89050-000, Brasil\n- Atendimento: segunda a sábado, 08h às 18h; domingo fechado\n\n## Orçamentos\nPara consultar preço, prazo e disponibilidade, envie fotos ou projeto, descrição do serviço e localização pelo WhatsApp. Não há preço fixo nem prazo universal publicado.\n\n## Precisão\nNão inferir avaliações, certificações, anos de experiência, garantias ou fabricação própria. Os serviços informados são de montagem.\n`
+for(const file of ['llms.txt','llm.txt']) writeFileSync('public/'+file, llm)
