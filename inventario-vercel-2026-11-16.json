@@ -1,0 +1,256 @@
+{
+  "recorded_date": "2026-11-16",
+  "site": "FOX Montagem de Móveis",
+  "url": "https://fox-montagem-moveis.vercel.app/",
+  "vercel_deployment_id": "dpl_GigtTQ3RLnecx8jTsLNRrdekgca2",
+  "vercel_status": "READY",
+  "updated_team_photo": "/media/fox-montador-oficial-20261115.webp",
+  "full_source_in_git": false,
+  "description": "HTML renderizado e inventário verificados. Binários e fonte Nuxt integral do upload manual permanecem na Vercel, ainda não copiados para GitHub",
+  "files": [
+    {
+      "path": ".gitignore",
+      "vercel_file_id": "5a7c045a8d92dc104bcbb2a58264f8243a5ad408"
+    },
+    {
+      "path": "app.vue",
+      "vercel_file_id": "f4e8869c0c6f8135bc1ef4909e6e26d99f0f9d0c"
+    },
+    {
+      "path": "assets/css/main.css",
+      "vercel_file_id": "f75827a7468d7bb031d92626fad1e1216e943544"
+    },
+    {
+      "path": "nuxt.config.ts",
+      "vercel_file_id": "dc3d0e66cb9de1a7763330da6acd4523e1d1095a"
+    },
+    {
+      "path": "package.json",
+      "vercel_file_id": "8daa8c1663c7caee124e783549fc15c4c1c7831f"
+    },
+    {
+      "path": "public/llm.txt",
+      "vercel_file_id": "1c066f1bab30fd768808dd86afc2fde8a1104226"
+    },
+    {
+      "path": "public/llms.txt",
+      "vercel_file_id": "1c066f1bab30fd768808dd86afc2fde8a1104226"
+    },
+    {
+      "path": "public/media/banheiro-duplo-small.webp",
+      "vercel_file_id": "5c3bfeb9cdb3b817d1651e5de65aa7cfc845fe83"
+    },
+    {
+      "path": "public/media/banheiro-duplo.webp",
+      "vercel_file_id": "c07039cc054962a7c3726b7d425077dd4eeb2c06"
+    },
+    {
+      "path": "public/media/banheiro-led-small.webp",
+      "vercel_file_id": "a87144578bb1a3040bac9a511abc106e194ca651"
+    },
+    {
+      "path": "public/media/banheiro-led.webp",
+      "vercel_file_id": "fc121cb6c99963987cbb7142da6513211fba4570"
+    },
+    {
+      "path": "public/media/closet-ilha-small.webp",
+      "vercel_file_id": "a025702bd9b38d1ef99da64cb1e09b6373bc5ad6"
+    },
+    {
+      "path": "public/media/closet-ilha.webp",
+      "vercel_file_id": "bbacf93fe15aa54f614cb19507510f85e45c1ec5"
+    },
+    {
+      "path": "public/media/closet-led-small.webp",
+      "vercel_file_id": "8846b64178bf8386de6cc368ae46f2dc631bf8db"
+    },
+    {
+      "path": "public/media/closet-led.webp",
+      "vercel_file_id": "019200b6e4aadcf0b48bec90ee75bffca8474d4f"
+    },
+    {
+      "path": "public/media/cozinha-azul.webp",
+      "vercel_file_id": "dc28027a0fee638987b3b5655893bd79d196017c"
+    },
+    {
+      "path": "public/media/cozinha-detalhe.webp",
+      "vercel_file_id": "14f73078cb544f8af591ad3512a08170725018f6"
+    },
+    {
+      "path": "public/media/cozinha-grafite.webp",
+      "vercel_file_id": "966e284be2371837908f2bc41a2ef5a571b652ef"
+    },
+    {
+      "path": "public/media/cozinha-ilha.webp",
+      "vercel_file_id": "541da874ef126ff3a0ecd38dbdc3bf5a14110962"
+    },
+    {
+      "path": "public/media/cozinha-integrada.webp",
+      "vercel_file_id": "181abb9324ff5e549d489861aa8a89d4e922f747"
+    },
+    {
+      "path": "public/media/cozinha-madeira-small.webp",
+      "vercel_file_id": "19a1c3aeb4a805352a2ead3297259dc331898427"
+    },
+    {
+      "path": "public/media/cozinha-madeira.webp",
+      "vercel_file_id": "4329f0754165451c21e45c62dbaf5782d824319b"
+    },
+    {
+      "path": "public/media/escada-madeira-small.webp",
+      "vercel_file_id": "d77305efa16f0ef8f37ac65832e1c3a41ac42f37"
+    },
+    {
+      "path": "public/media/escada-madeira.webp",
+      "vercel_file_id": "d08e19a054acaffc81ae10d3bc58f1f61eb28d87"
+    },
+    {
+      "path": "public/media/fox-hero-mobile.mp4",
+      "vercel_file_id": "dedbd8334965ea5fb40919499e521ecaff20e36f"
+    },
+    {
+      "path": "public/media/fox-hero-poster.webp",
+      "vercel_file_id": "86a32b252b716b5907144087a554e73ce9aecc6c"
+    },
+    {
+      "path": "public/media/fox-logo-small.webp",
+      "vercel_file_id": "fb4544113dca21e9fc15d4dbfbb0b28fea61fee9"
+    },
+    {
+      "path": "public/media/fox-montador-oficial-20261115.webp",
+      "vercel_file_id": "c11c86f2d00aca0e4bf28a420f325ab88f913249"
+    },
+    {
+      "path": "public/media/novo-11.webp",
+      "vercel_file_id": "c11c86f2d00aca0e4bf28a420f325ab88f913249"
+    },
+    {
+      "path": "public/media/logo.webp",
+      "vercel_file_id": "ba1052d2e1e8cb3366bbf2ffcec51bec8d02d1b0"
+    },
+    {
+      "path": "public/media/montagem-balcao-small.webp",
+      "vercel_file_id": "9d16a5f5808704c40e810b0e7a97055312265b90"
+    },
+    {
+      "path": "public/media/montagem-balcao.webp",
+      "vercel_file_id": "547e96ab3b30d70712d38afc40b0c4e2c4bbc46f"
+    },
+    {
+      "path": "public/media/novo-0.webp",
+      "vercel_file_id": "52a854f4160462d65004dd89e812682e1115fd2f"
+    },
+    {
+      "path": "public/media/novo-1.webp",
+      "vercel_file_id": "f818e4f10daa5b105b84cc6a1d5f387d2d27d7f5"
+    },
+    {
+      "path": "public/media/novo-10.webp",
+      "vercel_file_id": "71bb1afe7087f4f9b8bfd9dc78f90d3c0f645194"
+    },
+    {
+      "path": "public/media/novo-12.webp",
+      "vercel_file_id": "bfca3fbf172b3bb76803664b20aa89cd7dae8523"
+    },
+    {
+      "path": "public/media/novo-13.webp",
+      "vercel_file_id": "e9a55f907d2b2aba35de30966ae0d08d59635489"
+    },
+    {
+      "path": "public/media/novo-14.webp",
+      "vercel_file_id": "1d6e13820513576fc59d9390b79ef6bc7da7405d"
+    },
+    {
+      "path": "public/media/novo-15.webp",
+      "vercel_file_id": "f39a6748bbe37d718cd5fb2a6dd9cc17d9cc037a"
+    },
+    {
+      "path": "public/media/novo-16.webp",
+      "vercel_file_id": "e7966f47f7253aadf4977ee74b1f991bb1602385"
+    },
+    {
+      "path": "public/media/novo-17.webp",
+      "vercel_file_id": "05cbc483e7b07db18d371b76200f242a10bc37a2"
+    },
+    {
+      "path": "public/media/novo-2.webp",
+      "vercel_file_id": "fbcdcbb0552d7050a37007c3254ea004b4b76a42"
+    },
+    {
+      "path": "public/media/novo-3.webp",
+      "vercel_file_id": "79f83f1b296ce0eb49a344c5cb5faf93cc0ec2d1"
+    },
+    {
+      "path": "public/media/novo-4.webp",
+      "vercel_file_id": "5a5ffb194fed7bc658aa999819da2bd62bd6303e"
+    },
+    {
+      "path": "public/media/novo-5.webp",
+      "vercel_file_id": "6299d6904766fb0f63f96f44bbb9da87997d1c96"
+    },
+    {
+      "path": "public/media/novo-6.webp",
+      "vercel_file_id": "70f2e03eead27dff65f46603f3fbcf5aedd4f8f7"
+    },
+    {
+      "path": "public/media/novo-7.webp",
+      "vercel_file_id": "ada2009c78fd3ef62c8d86d494ea378cf44282ef"
+    },
+    {
+      "path": "public/media/novo-8.webp",
+      "vercel_file_id": "c9fb7a5e6c5e28de203a171a70f070985aea0118"
+    },
+    {
+      "path": "public/media/novo-9.webp",
+      "vercel_file_id": "b36c6a92ba7872084296627dfa857548c36a2c18"
+    },
+    {
+      "path": "public/media/painel-corredor-small.webp",
+      "vercel_file_id": "f8ee2393c00b969579571bee09c356ca3baf9758"
+    },
+    {
+      "path": "public/media/painel-corredor.webp",
+      "vercel_file_id": "26cddab3966b14363fcef7944a040e24b802b32b"
+    },
+    {
+      "path": "public/media/painel-portas-small.webp",
+      "vercel_file_id": "715108e18e9e5108824d9cd9528aaf1af6d74ec4"
+    },
+    {
+      "path": "public/media/painel-portas.webp",
+      "vercel_file_id": "2fd69b8203023ce3cfc94e4634c306085546cd0a"
+    },
+    {
+      "path": "public/media/painel-sala-small.webp",
+      "vercel_file_id": "e5eb2f234bd786824fa43ce1eda8d41ec6ceb6ac"
+    },
+    {
+      "path": "public/media/painel-sala.webp",
+      "vercel_file_id": "b13108a9cb68173856cd2a542895c5a08806ffee"
+    },
+    {
+      "path": "public/media/texture.webp",
+      "vercel_file_id": "b9867d412988ccf2d60c9f54aed59867d4ffa13a"
+    },
+    {
+      "path": "public/robot.txt",
+      "vercel_file_id": "3e37179d984a0839bb844a88289f2e27aeb82fcc"
+    },
+    {
+      "path": "public/robots.txt",
+      "vercel_file_id": "3e37179d984a0839bb844a88289f2e27aeb82fcc"
+    },
+    {
+      "path": "public/sitemap.xml",
+      "vercel_file_id": "f7ee927cbd037b998f7ac7371a8d8d2971f9fec2"
+    },
+    {
+      "path": "scripts/seo.mjs",
+      "vercel_file_id": "7a83c78c24e6a34053875df0a3f0ee8a59438e09"
+    },
+    {
+      "path": "vercel.json",
+      "vercel_file_id": "71a3898aedc9a2928ef8c3404778268549654f7a"
+    }
+  ]
+}
